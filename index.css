@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: gray;
+}
+
+b {
+    color: gray;
+}
+
+h1 ,h3 ,h4 {
+    text-align: center;
+}
+
+.q {
+    background-color: darkgrey;
+}
+
+h3 {
+    background-color: darkgrey;
+}
+
+footer {
+    background-color: darkgray;
+}
+
+.g {
+    color: red;
+}
+
+.n {
+    color: red;
+}
