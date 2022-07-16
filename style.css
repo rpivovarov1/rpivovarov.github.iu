@@ -15,10 +15,6 @@ h1 ,h3 ,h4 {
     background-color: darkgrey;
 }
 
-h3 {
-    background-color: darkgrey;
-}
-
 footer {
     background-color: darkgray;
 }
@@ -31,6 +27,6 @@ footer {
     color: red;
 }
 
-h2 {
-    text-align: center;
+.w {
+    background-color: darkgrey;
 }
